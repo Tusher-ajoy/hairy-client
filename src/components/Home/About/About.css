@@ -1,0 +1,22 @@
+#about ul{
+    list-style: none;
+    padding-left: 0;margin-top: 1rem;
+}
+#about ul li::before{
+    content: '✓';
+}
+.rec.rec-arrow {
+    /* visibility: hidden; */
+    background-color: #d6a25463 !important;
+    color: #d6a354;
+}
+.eWjCzc:hover:enabled, .eWjCzc:focus:enabled {
+    background-color: #d6a354 !important;
+}
+.krmNah{
+    background-color: #d6a2548f !important;
+    box-shadow: 0 0 1px 3px #d6a354 !important;
+}
+.krmNah:hover, .krmNah:focus {
+    box-shadow: 0 0 1px 3px #d6a354 !important;
+}

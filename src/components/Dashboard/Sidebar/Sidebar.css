@@ -1,0 +1,18 @@
+.sidebarDiv{
+    height:100%;
+    width:20%; 
+    float:left;
+}
+
+.pro-sidebar {
+    color: rgb(220,164,78);
+}
+.pro-sidebar > .pro-sidebar-inner {
+    background: white;
+}
+
+@media (max-width: 768px) {
+    .sidebarDiv{
+        width: 0;
+    }
+}

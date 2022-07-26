@@ -1,0 +1,19 @@
+.buttonStyle{
+    border: 3px solid rgb(220,164,78) !important;
+    color: white !important;
+    background-color: rgba(0, 0, 0, 0.1) !important;
+    border-radius: 0px !important;
+    padding: 10px 45px !important;
+    margin-top: 25px !important;
+    text-transform: uppercase;
+}
+.buttonStyle:hover{
+    background-color: rgb(220,164,78) !important;
+    color: black !important;
+    border-color: rgb(220,164,78) !important;
+}
+.headerMainHeading{
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 60px;
+    text-transform: uppercase;
+}

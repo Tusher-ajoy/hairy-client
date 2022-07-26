@@ -1,0 +1,26 @@
+main {
+    width: 80%;
+    height: 100vh;
+    float: right;
+    background:rgb(251,247,244);
+}
+
+.userForm{
+    margin: 30px;
+    width: 60%;
+}
+
+
+
+@media (max-width: 768px) {
+    main {
+        width: 100%;
+        float: left;
+    }
+    .bookHeader{
+        margin-left: 40px;
+    }
+    .userForm{
+        width: 90%;
+    }
+}

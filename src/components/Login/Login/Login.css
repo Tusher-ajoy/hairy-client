@@ -1,0 +1,17 @@
+.login{
+    width: 400px;
+    margin: 0 auto;
+    /* border: 1px solid black; */
+    height: 100vh;
+    text-align: center;
+}
+.login-btn{
+    border: 1px solid gray;
+    width: 250px;
+    margin: 0 auto;
+    padding: 10px;
+    cursor: pointer;
+}
+.login-btn:hover{
+    box-shadow: 5px 5px 5px 1px rgba(0, 0, 0, 0.2);
+}

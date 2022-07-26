@@ -1,0 +1,20 @@
+.contactIcon{
+    background: #d6a354;
+    padding: 10px;
+    font-size: 25px;
+    color: white;
+    border-radius: 50%;
+}
+.contactInput{
+    width: 100%;
+    border: none;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.contactBtn{
+    padding: 7px 20px;
+    border: none;
+    background: rgb(220,164,78);
+    color: white;
+    margin-left: 35%;
+}

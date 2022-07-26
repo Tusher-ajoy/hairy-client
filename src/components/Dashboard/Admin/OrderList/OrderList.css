@@ -1,0 +1,11 @@
+.orderList{
+    padding: 20px;
+}
+.orderList th, .orderList td{
+     padding: 10px;
+}
+.orderList select{
+    padding: 10px;
+    border: none;
+    background: none;
+}

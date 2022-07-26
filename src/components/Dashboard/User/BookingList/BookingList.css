@@ -1,0 +1,8 @@
+.bookingListMain{
+    width: 80%;
+    margin: 30px;
+}
+.bookingListMain .card{
+    border: none;
+    border-radius: 0.5rem;
+}

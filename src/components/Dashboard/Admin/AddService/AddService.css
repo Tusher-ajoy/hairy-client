@@ -1,0 +1,22 @@
+.styleFileUp{
+    color: transparent;
+}
+.styleFileUp::-webkit-file-upload-button{
+    visibility: hidden;
+}
+.styleFileUp::before{
+    content: 'Upload image';
+    color: rgba(105, 70, 244, 1);
+    display: inline-block;
+    background: rgba(227, 220, 255, 1);
+    border: 1px solid rgba(105, 70, 244, 1);
+    border-radius: 3px;
+    padding: 10px 8px;
+    outline: none;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    cursor: pointer;
+    text-shadow: 1px 1px #fff;
+    font-weight: 700;
+    font-size: 10pt;
+}

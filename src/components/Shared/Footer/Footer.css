@@ -1,0 +1,8 @@
+footer a{
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+footer a:hover{
+    color: rgb(220,164,78);
+}
